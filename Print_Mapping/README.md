@@ -87,10 +87,6 @@ Ordo Print Mapping 是我設計的批次自動化工具：使用者整理Excel�
 
 ![SVG輸出結果](images/svg-output.png)
 
-### 多檔合併輸出
-
-![6-in-1輸出](images/6-in-1-output.png)
-
 ## 專案延伸方向
 
 * 與ERP訂單資料直接串接，減少人工匯出與整理
