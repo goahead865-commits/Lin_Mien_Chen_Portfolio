@@ -79,15 +79,21 @@ OrdoLite ERP 是我針對中小型製造業需求規劃與開發的輕量ERP系�
 
 ### 出貨作業
 
-![出貨作業](images/delivery.png)
+![出貨作業](images/deliver1.png)
+![出貨作業](images/deliver2.png)
 
 ### 應收應付與帳款管理
 
-![帳款管理](images/ar-ap.png)
+![應收帳款](images/AP_1.png)
+![應收帳款](images/AP_2.png)
+![應付帳款](images/AR_1.png)
 
-### 條碼入庫
+### 客戶主檔資料
+![客戶主檔](images/customer_main1.png).
+![客戶主檔](images/customer_main2.png).
 
-![條碼入庫](images/barcode-inbound.png)
+### 原料進出庫
+![原料進出庫](images/material_inventory1.png).
 
 ## 線上展示
 
